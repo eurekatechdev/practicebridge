@@ -1,0 +1,7 @@
+{
+  "name": "PracticeBridge",
+  "description": "A HIPAA-compliant dental practice management overlay featuring AI-driven insurance OCR, dynamic patient communication, and predictive analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
