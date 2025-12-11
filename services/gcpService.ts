@@ -3,7 +3,7 @@ import { Tenant, SaaSPlan } from '../types';
 
 // Feature Flag: Toggle this to true to switch from Direct Client API (Demo) to Cloud Proxy (SaaS Prod)
 // In a real build pipeline, this would be set via REACT_APP_ENV='production'
-export const IS_PRODUCTION_MODE = false; 
+export const IS_PRODUCTION_MODE = true; 
 
 export const CLOUD_CONFIG = {
   projectId: 'practice-bridge-saas',
